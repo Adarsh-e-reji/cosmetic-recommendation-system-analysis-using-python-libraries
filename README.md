@@ -1,4 +1,4 @@
-# **Cosmetic Recommendation System Analysis using Python libraries**
+# **Cosmetic Recommendation System Analysis (Python libraries)**
 
 ## **Project Description**
 
